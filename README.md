@@ -1,2 +1,2 @@
-# Titanic-Spaceship
-Titanic Spaceship Dataset Pre-processing and Modeling 
+# Titanic Spaceship
+I have done data cleaning and feature engineering and obtained a model accuracy of above 80% for the spaceship titanic dataset.
